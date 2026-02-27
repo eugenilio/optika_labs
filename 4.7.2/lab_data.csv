@@ -1,0 +1,19 @@
+L = 479 cm
+L_error = 1 cm
+
+ring_number,diameter_cm,diameter_error_cm
+1, 5.5, 1
+2, 8, 1
+3, 9.5, 1
+4, 11.5, 1
+5, 12.5, 1
+
+point_type,V_crossed,V_crossed_error, V_parallel,V_parallel_error
+U_lambda/2, 30, 10, 60, 2
+U_lambda,60, 2, 85, 2
+U_3lambda/2, 85, 5, 105, 2
+
+U_lambda/4, 30, 5
+
+oscil_point, V crossed
+U_lambda/2, 25, 2
